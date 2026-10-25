@@ -1,8 +1,8 @@
 ## Hi there 👋
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/itcoder1907?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/itcoder1907/)
 <!--
 **HoVietThang190704/HoVietThang190704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![LeetCode Stats](https://leetcard.jacoblin.cool/itcoder1907?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/itcoder1907/)
+
 
 Here are some ideas to get you started:
 
