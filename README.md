@@ -32,11 +32,11 @@ Final-year Software Engineering student & Fullstack Developer based in Ho Chi Mi
 
 ---
 
-### GitHub & Coding Stats
+### 📊 GitHub & Coding Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HoVietThang190704&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HoVietThang190704&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HoVietThang190704&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoVietThang190704&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
 </p>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/itcoder1907?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/itcoder1907/)
