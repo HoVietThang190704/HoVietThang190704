@@ -2,14 +2,14 @@
 
 Final-year Software Engineering student & Fullstack Developer based in Ho Chi Minh City, Vietnam.
 
-- Currently building full-stack web applications with **Next.js & NestJS**
-- Exploring modern backend architectures, database optimizations, and system design
-- Ask me about: **React, Next.js, NestJS, TypeScript, PostgreSQL**
-- Reach me: [hovietthang1907@gmail.com](mailto:hovietthang1907@gmail.com)
+-  Currently building full-stack web applications with **Next.js, NestJS & Node.js**
+-  Exploring modern backend architectures, database optimizations, and system design
+-  Ask me about: **React, Next.js, Node.js, NestJS, TypeScript, PostgreSQL**
+-  Reach me: [hovietthang1907@gmail.com](mailto:hovietthang1907@gmail.com)
 
 ---
 
-### Tech Stack & Skills
+###  Tech Stack & Skills
 
 **Languages:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,7 +23,7 @@ Final-year Software Engineering student & Fullstack Developer based in Ho Chi Mi
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
-**Backend & Databases:**
+**Backend & Databases:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -33,7 +33,7 @@ Final-year Software Engineering student & Fullstack Developer based in Ho Chi Mi
 
 ---
 
-### GitHub & Coding Stats
+###  GitHub & Coding Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HoVietThang190704&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
