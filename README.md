@@ -2,14 +2,14 @@
 
 Final-year Software Engineering student & Fullstack Developer based in Ho Chi Minh City, Vietnam.
 
-- 🔭 Currently building full-stack web applications with **Next.js & NestJS**
-- 🌱 Exploring modern backend architectures, database optimizations, and system design
-- 💬 Ask me about: **React, Next.js, NestJS, TypeScript, PostgreSQL**
-- 📫 Reach me: [hovietthang1907@gmail.com](mailto:hovietthang1907@gmail.com)
+- Currently building full-stack web applications with **Next.js & NestJS**
+- Exploring modern backend architectures, database optimizations, and system design
+- Ask me about: **React, Next.js, NestJS, TypeScript, PostgreSQL**
+- Reach me: [hovietthang1907@gmail.com](mailto:hovietthang1907@gmail.com)
 
 ---
 
-### 🛠 Tech Stack & Skills
+### Tech Stack & Skills
 
 **Languages:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,7 +32,7 @@ Final-year Software Engineering student & Fullstack Developer based in Ho Chi Mi
 
 ---
 
-### 📊 GitHub & Coding Stats
+### GitHub & Coding Stats
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HoVietThang190704&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
